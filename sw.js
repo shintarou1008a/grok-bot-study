@@ -1,6 +1,6 @@
 // Service worker: precache the app shell, serve it cache-first so it works offline.
 const PREFIX = "grok-study-";
-const VERSION = "18c9f208ce71";
+const VERSION = "e274c427287d";
 const CACHE = PREFIX + VERSION;
 const FONT_CACHE = "study-fonts";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
