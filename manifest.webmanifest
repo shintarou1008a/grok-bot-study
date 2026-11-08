@@ -1,0 +1,25 @@
+{
+  "name": "Grok Bot 自習ノート",
+  "short_name": "Grok自習",
+  "description": "Grok Bot でチームを回す司令塔の仕事を覚える自習ノート（初級・中級・上級）。オフラインでも使える。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F6F4",
+  "theme_color": "#6A3D2A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
